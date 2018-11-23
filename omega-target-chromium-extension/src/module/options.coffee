@@ -267,7 +267,7 @@ class ChromeOptions extends OmegaTarget.Options
           return result
       return result if url.substr(0, 6) == 'about:'
       return result if url.substr(0, 4) == 'moz-'
-      domain = OmegaPac.getBaseDomain(Url.parse(url).hostname)
+      domain = Url.parse(url).hostname
 
       return {
         url: url
