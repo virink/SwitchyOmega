@@ -18,7 +18,7 @@ msgid "appNameShort"
 msgstr "SwitchyOmega"
 
 msgid "manifest_app_name"
-msgstr "Proxy SwitchyOmega"
+msgstr "Proxy SwitchyOmega Virink"
 
 msgid "manifest_app_description"
 msgstr "輕鬆快捷地管理和切換多個代理設定。"
